@@ -1,0 +1,8 @@
+Property,Logistic Map (r=4.0),Text Generation (LLM)
+"System Type","Classical dynamical system","Linguistic trajectory"
+"Initial Perturbation","1.0e-06 (0.0002%)","1 word change ("driven" → "governed")"
+"Divergence Growth","Exponential → Saturation","Linear (sustained)"
+"Lyapunov Exponent λ","1.3863 (POSITIVE)","0.0121 (→ 0)"
+"Phase Space","Bounded [0; 1]","Unbounded (infinite vocabulary)"
+"Chaotic?","✓ YES","✗ NO"
+"Sensitive to IC?","✓ YES","✓ YES"

@@ -1,0 +1,4 @@
+Seed Type,Seed Length (words),Relative Perturbation (%),Generated Tokens,Final Divergence,Stable Phase (tokens),Growth Type,Linear R²,Linear Slope,λ_eff (final)
+Short,6,16.67%,468,2476,4,linear,0.9999,5.9893,0.0140
+Medium,12,8.33%,602,2633,8,linear,0.9996,5.4032,0.0121
+Long,53,1.89%,566,3010,8,linear,0.9970,5.7400,0.0110

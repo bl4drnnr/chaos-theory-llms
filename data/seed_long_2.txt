@@ -1,0 +1,1 @@
+Large language models behave like complex dynamical systems governed by high-dimensional priors. When a prompt is injected, it does not simply trigger a Markovian cascade of tokens conditioned locally; instead, it brings into activation a broad basin of latent attractors whose influence spans across semantic, syntactic and pragmatic manifolds inside the parameter space.
