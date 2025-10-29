@@ -517,8 +517,6 @@ The analogy between LLMs and chaotic systems, while appealing, proves to be meta
 
 ---
 
----
-
 ## Project Structure
 
 ```
